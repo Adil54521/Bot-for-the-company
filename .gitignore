@@ -1,0 +1,23 @@
+# Виртуальное окружение
+venv/
+.venv/
+
+# Файл с токенами и секретами
+.env
+
+# Файлы кэша Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Логи
+*.log
+
+# Файлы ОС и редакторов
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+
+# Google credentials
+*.json
